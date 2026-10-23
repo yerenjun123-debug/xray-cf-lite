@@ -13,7 +13,7 @@ LAST_LINKS_PATH="$(pwd)/cf_lite_last_links.txt"
 CF_API="https://api.cloudflare.com/client/v4"
 MANAGED_PREFIX="xray-cf-lite "
 XRAY_INSTALL_URL="https://github.com/XTLS/Xray-install/raw/main/install-release.sh"
-SUB_BASE="https://yx-auto.pages.dev"
+SUB_BASE="https://bestcf.pages.dev/random-region/HK/20.txt"
 
 declare -A PROTO_SUFFIX=([vless]="vl" [trojan]="tr" [vmess]="vm")
 declare -A PROTO_LABEL=([vless]="VLESS" [trojan]="TROJAN" [vmess]="VMESS")
